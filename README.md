@@ -156,9 +156,9 @@ The Lumenis MVP (Minimum Viable Product) will demonstrate the following end-to-e
 
 | Milestone | Target | Goal |
 |---|---|---|
-| ✅ Architecture designed | Jan 2026 | RAG pipeline + full feature set defined |
-| 🔧 Development begins | Feb 2026 | Core RAG pipeline + Feynman Mode |
-| 🚀 Beta launch | April 2026 | 500 UNISA student beta testers |
+| ✅ Architecture designed | September 2026 | RAG pipeline + full feature set defined |
+| 🔧 Development begins | March 2026 | Core RAG pipeline + Feynman Mode |
+| 🚀 Beta launch | June 2026 | 500 UNISA student beta testers |
 | 📈 Public launch | Q3 2026 | 5,000 active users |
 | 🌍 Multi-institution expansion | 2027 | Other South African ODL institutions |
 
